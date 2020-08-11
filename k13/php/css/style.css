@@ -1,0 +1,136 @@
+@charset "utf-8";
+.top {
+	background-image: url(../images/box_top.gif);
+	height: 29px;
+	width: 710px;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: 29px;
+	font-size: 12px;
+	color: #999;
+	padding-left: 20px;
+	font-family: "黑体";
+}
+.news {
+	width: 728px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #d6dbe1;
+	border-left-color: #d6dbe1;
+	padding-bottom: 20px;
+}
+.news ul {
+	list-style-type: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	padding: 0px;
+}
+.news ul li {
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	background-image: url(../images/listicon.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #d6dbe1;
+	margin-right: 20px;
+}
+.news ul li span {
+	float: right;
+	font-size: 12px;
+	color: #666;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.news ul li a {
+	color: #000;
+	text-decoration: none;
+	font-size: 12px;
+}
+.news ul li a:hover{
+	text-decoration: underline;
+
+}
+.btm ul p {
+	padding: 0px;
+	float: left;
+	font-family: "黑体";
+	font-size: 14px;
+	line-height: 25px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+.btm ul li {
+	float: left;
+}
+.btm ul li a {
+	background-color: #eef6ff;
+	display: block;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 12px;
+	height: 20px;
+	line-height: 20px;
+	text-decoration: none;
+	color: #2a77b6;
+	border: 1px solid #aaf1e9;
+	font-family: "黑体";
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+
+.btm ul {
+	list-style-type: none;
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #d6dbe1;
+	height: 30px;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	display: block;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.btm ul li .q1 {
+	background-color: #04a1e8;
+	color: #FFF;
+}
+
+
+
+
+
+
+
+
+.btm {
+	background-image: url(../images/box_btm.gif);
+	height: 41px;
+	width: 730px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+}
+.btm2 {
+	height: 61px;
+	width: 730px;
+	margin-right: auto;
+	margin-left: auto;
+}

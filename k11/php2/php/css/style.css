@@ -1,0 +1,63 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.bj1 {
+	background-image: url(../images/nav_03.gif);
+	background-repeat: no-repeat;
+	height: 38px;
+	width: 969px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 9px;
+}
+.bj1 .bj2 ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.bj1 .bj2 ul li {
+	float: left;
+	background-image: url(../images/nav_05.gif);
+	background-repeat: repeat-x;
+}
+.bj1 .bj2 {
+	background-image: url(../images/nav_11.gif);
+	float: right;
+	width: 960px;
+	padding-right: 9px;
+	background-repeat: no-repeat;
+	height: 38px;
+	background-position: right center;
+}
+.bj1 .bj2 ul li a {
+	display: block;
+	width: 120px;
+	height: 38px;
+	text-align: center;
+	line-height: 38px;
+	color: #FFF;
+	font-size: 14px;
+	text-decoration: none;
+	background-image: url(../images/nav_07.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.bj1 .bj2 ul li:last-child a {
+	display: block;
+	width: 120px;
+	height: 38px;
+	text-align: center;
+	line-height: 38px;
+	color: #FFF;
+	font-size: 14px;
+	text-decoration: none;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.bj1 .bj2 ul li a:hover {
+	background-image: url(../images/nav_09.gif);
+	background-repeat: repeat-x;
+}

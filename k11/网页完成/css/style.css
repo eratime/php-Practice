@@ -1,0 +1,272 @@
+@charset "utf-8";
+img {
+	display: block;
+}
+.left {
+	width: 400px;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #800000;
+	font-size: 12px;
+	overflow: hidden;
+	float: left;
+}
+.box {
+	overflow: hidden;
+}
+
+.right {
+	float: left;
+	width: 384px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	margin-left: 15px;
+}
+.right .tupian img {
+	float: left;
+}
+.right .tupian img {
+	border: 4px solid #FFF;
+	margin: 10px;
+}
+
+
+
+.left .box2 ul li {
+	margin-bottom: 5px;
+}
+
+
+body {
+	background-color: #f6f5e9;
+	background-image: url(../images/top_bg.jpg);
+	background-repeat: repeat-x;
+	margin: 0px;
+	padding: 0px;
+}
+.top {
+	height: 50px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.top ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.date {
+	float: right;
+	line-height: 50px;
+	font-size: 12px;
+	color: #FFF;
+}
+.cont {
+	width: 800px;
+	border: 10px solid #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #F6F6EE;
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
+.left p {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: justify;
+}
+.right p {
+	padding: 0px;
+	text-align: justify;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.xiayiye {
+	float: right;
+	width: 100px;
+	height: 40px;
+	background-image: url(../images/more.jpg);
+	background-repeat: no-repeat;
+	line-height: 50px;
+	padding-top: 10px;
+	color: #D08786;
+}
+
+
+.tu {
+	border: 4px solid #FFF;
+	height: 79px;
+	width: 130px;
+	float: left;
+}
+.left ul {
+	padding: 0px;
+	list-style-type: none;
+	float: right;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.box2 {
+	height: 130px;
+	padding-top: 20px;
+}
+.left .box2 ul li span {
+	float: right;
+	margin-left: 10px;
+	margin-right: 15px;
+}
+.foot {
+	background-color: #333333;
+	height: 100px;
+}
+.copy {
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.copy p {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	width: 300px;
+	font-size: 12px;
+	height: 40px;
+	line-height: 40px;
+	color: #666;
+	font-family: Verdana, Geneva, sans-serif;
+	float: left;
+}
+.copy ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.copy ul li a {
+	text-decoration: none;
+	color: #999;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 40px;
+	height: 40px;
+}
+.copy ul li {
+	float: left;
+	margin-left: 10px;
+	display: block;
+}
+.copy_tu {
+	float: right;
+	height: 30px;
+	width: 125px;
+	background-image: url(../images/p2.jpg);
+	background-repeat: no-repeat;
+	padding-top: 50px;
+	text-align: center;
+	color: #666;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+.left .box2 ul li a {
+	color: #666;
+	text-decoration: none;
+	margin-left: 5px;
+}
+.left .box2 ul li a:hover {
+	text-decoration: underline;
+}
+.left .lian_tu img {
+	border: 2px solid #FFF;
+	float: left;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+.left h3 {
+	font-size: 14px;
+	color: #999;
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	line-height: 30px;
+	height: 30px;
+}
+
+
+
+.top ul li {
+	float: left;
+	width: 90px;
+	height: 50px;
+	display: block;
+	line-height: 50px;
+	margin-right: 10px;
+}
+.top ul li a {
+	background-image: url(../images/bt_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+	padding-left: 25px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+.top ul li a:hover {
+	text-decoration: none;
+	background-image: url(../images/bt_bg_a.jpg);
+}
+.right h3 {
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	line-height: 30px;
+	color: #999;
+}
+.cont .box .right .tupian ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.cont div ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.tulan {
+	overflow: hidden;
+}
+.tulan h3 {
+	font-size: 14px;
+	color: #999;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+
+.tulan ul li img {
+	float: left;
+	border: 2px solid #FFF;
+	margin-right: 10px;
+}

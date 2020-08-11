@@ -1,0 +1,126 @@
+@charset "utf-8";
+body {
+	background-image: url(../images/bgBody.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin: 0px;
+	background-attachment: fixed;
+	padding-top: 180px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.top {
+	background-image: url(../images/topline.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 30px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.cont {
+	width: 790px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #64A3D8;
+	border-bottom-color: #64A3D8;
+	border-left-color: #64A3D8;
+	background-color: #FFF;
+	padding-right: 20px;
+	padding-left: 20px;
+	overflow: hidden;
+}
+.cont h1 {
+	color: #F00;
+	font-family: "黑体";
+	text-align: center;
+	font-size: 24px;
+	margin: 0px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+}
+.cont h5 {
+	text-align: right;
+	font-weight: normal;
+}
+.cont .tishi {
+	font-family: "黑体";
+	font-size: 14px;
+	line-height: 30px;
+	background-color: #99ffcd;
+	height: 30px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #000;
+	padding-left: 40px;
+	margin-bottom: 30px;
+}
+.cont p {
+	margin: 0px;
+	font-size: 12px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 40px;
+	padding-left: 0px;
+}
+
+
+.cont h5 span {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.cont form .box {
+	overflow: hidden;
+}
+.cont form .tijiao input {
+	font-size: 18px;
+	height: 40px;
+	width: 200px;
+	border: 5px solid #6a8ed8;
+	background-color: #f4f5f0;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+.cont form .tijiao {
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+.cont form hr {
+	margin-bottom: 30px;
+	color: #666;
+}
+
+
+
+
+
+.cont form .box h3 {
+	font-size: 16px;
+	margin: 0px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+}
+.cont form .box ul li {
+	font-size: 12px;
+	width: 230px;
+	float: left;
+	padding-left: 30px;
+}
+.cont form .box ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}

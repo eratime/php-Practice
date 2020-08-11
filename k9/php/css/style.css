@@ -1,0 +1,412 @@
+@charset "utf-8";
+.boxtop {
+	height: 79px;
+	width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../image/bg1.jpg);
+}
+.logo {
+	background-image: url(../image/logo.jpg);
+	height: 79px;
+	width: 328px;
+	float: left;
+	margin-left: 182px;
+}
+.wz {
+	background-image: url(../image/bg1.png);
+	height: 30px;
+	width: 159px;
+	color: #FFF;
+	float: right;
+	font-size: 14px;
+	line-height: 28px;
+	padding-left: 50px;
+	margin-top: 20px;
+	margin-right: 183px;
+	font-family: "黑体";
+}
+.bodybox {
+	background-image: url(../image/bg5.jpg);
+	height: 679px;
+	width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.contbox {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.banner {
+	background-image: url(../image/banner2.jpg);
+	height: 100px;
+	width: 1000px;
+}
+
+
+
+.nav {
+	background-image: url(../image/bg2.jpg);
+	height: 40px;
+	width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.nav ul li {
+	float: left;
+	line-height: 38px;
+	background-image: url(../image/nav_s.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	margin-top: 2px;
+	padding-right: 48px;
+	padding-left: 48px;
+}
+.bybox {
+	width: 1000px;
+	background-image: url(../image/bg.jpg);
+	background-repeat: no-repeat;
+	height: 579px;
+	background-color: #f0f0f0;
+}
+.bodybox .contbox .bybox h2 {
+	color: #3a0b00;
+	float: left;
+	line-height: 50px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+	padding: 0px;
+	font-family: "仿宋";
+}
+.bodybox .contbox .bybox p {
+	padding: 0px;
+	float: right;
+	line-height: 50px;
+	margin-top: 0px;
+	margin-right: 40px;
+	margin-bottom: 0px;
+	font-family: "黑体";
+	font-size: 12px;
+	color: #bb3c03;
+}
+.bodybox .contbox .bybox .bt p a {
+	color: #333;
+	text-decoration: none;
+}
+.bodybox .contbox .bybox hr {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+.dynr {
+	height: 500px;
+	width: 630px;
+	float: left;
+}
+.lx {
+	background-color: #fef7ed;
+	width: 300px;
+	height: 210px;
+	float: left;
+	margin-right: 30px;
+	margin-left: 30px;
+	background-image: url(../image/icon9.jpg);
+	background-repeat: no-repeat;
+	background-position: 20px 10px;
+	border-radius: 10px;
+	border: 1px solid #CCC;
+	margin-bottom: 20px;
+	position: relative;
+}
+.chaxun {
+	height: 90px;
+	width: 200px;
+	margin-left: 70px;
+	margin-top: 10px;
+	font-size: 12px;
+	color: #792100;
+}
+.lianxi {
+	background-image: url(../image/img2.jpg);
+	height: 98px;
+	width: 212px;
+	margin-left: 70px;
+}
+
+
+.wt {
+	background-color: #fafafa;
+	height: 200px;
+	width: 300px;
+	float: left;
+	margin-right: 30px;
+	margin-left: 30px;
+	border: 1px solid #CCC;
+	border-radius: 10px;
+	background-image: url(../image/icon8.jpg);
+	background-repeat: no-repeat;
+	background-position: 20px 20px;
+}
+.wengti {
+	margin-top: 20px;
+	margin-left: 70px;
+	font-size: 18px;
+	color: #3a0b00;
+}
+.wt ul {
+	list-style-type: none;
+	margin-top: 20px;
+	margin-left: 50px;
+	padding: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+}
+.wt span a {
+	color: #b04f01;
+	text-decoration: none;
+	font-size: 12px;
+	margin-left: 200px;
+}
+.foot {
+	background-image: url(../image/bg3.jpg);
+	height: 52px;
+	width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.copy {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.zuo {
+	color: #6d6d6d;
+	font-size: 12px;
+	margin-top: 10px;
+	float: left;
+}
+.logo2 {
+	color: #6d6d6d;
+	float: right;
+	font-size: 12px;
+	background-image: url(../image/logo2.jpg);
+	width: 180px;
+	background-repeat: no-repeat;
+	padding-left: 130px;
+	height: 52px;
+	font-family: "黑体";
+	line-height: 20px;
+}
+.bodybox .contbox .bybox .dynr .fanye li a {
+}
+
+
+.zuo a {
+	color: #6d6d6d;
+	text-decoration: none;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+
+
+
+
+.wt ul li {
+	height: 20px;
+
+}
+.wt ul li a {
+	color: #3a0b00;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+
+
+
+.bodybox .contbox .bybox .dynr ul {
+	margin: 0px;
+	list-style-type: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 40px;
+}
+
+
+
+
+.dyhong {
+	background-image: url(../image/bar1.jpg);
+	height: 33px;
+	width: 500px;
+	line-height: 33px;
+	padding-right: 40px;
+	padding-left: 40px;
+	color: #FFF;
+	font-family: "黑体";
+	display: block;
+	margin-left: 40px;
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.bodybox .contbox .bybox .dynr ul li {
+	line-height: 30px;
+	display: block;
+	margin-right: 10px;
+	font-size: 12px;
+	color: #333;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999;
+}
+.fanye {
+	padding: 0px;
+	list-style-type: none;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 180px;
+}
+.bodybox .contbox .bybox .dynr .fanye li a {
+	color: #333;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.fanye li {
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.s1 {
+	background-image: url(../image/more1.jpg);
+	background-repeat: no-repeat;
+	height: 13px;
+	width: 14px;
+	cursor:pointer;
+}
+.s2 {
+	background-image: url(../image/more2.jpg);
+	background-repeat: no-repeat;
+	height: 13px;
+	width: 12px;
+	cursor:pointer;
+}
+.s3 {
+	background-image: url(../image/more3.jpg);
+	height: 13px;
+	width: 12px;
+	background-repeat: no-repeat;
+	cursor:pointer;
+}
+.s4 {
+	background-image: url(../image/more4.jpg);
+	background-repeat: no-repeat;
+	height: 13px;
+	width: 14px;
+	cursor:pointer;
+}
+
+
+
+
+
+.bodybox .contbox .bybox .dynr ul li div {
+	float: left;
+	width: 90px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav ul li a {
+	color: #FFF;
+	text-decoration: none;
+	font-family: "黑体";
+}
+.bodybox .contbox .bybox .dynr ul li span {
+	float: right;
+	margin-right: 30px;
+}
+.bodybox .contbox .bybox .dynr ul li a {
+	color: #333;
+	text-decoration: none;
+}
+
+
+
+
+.bodybox .contbox .bybox .bt {
+	height: 50px;
+	width: 1000px;
+}
+
+.dyhong .by1 {
+	float: left;
+}
+.dyhong .by2 {
+	float: left;
+	margin-left: 40px;
+}
+.dyhong .by3 {
+	float: right;
+}
+
+
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.nav ul {
+	list-style-type: none;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 1000px;
+}
+.tuj {
+	background-image: url(../image/left.jpg);
+	position: absolute;
+	height: 27px;
+	width: 14px;
+	top: 30px;
+	left: -14px;
+}

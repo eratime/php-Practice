@@ -1,0 +1,1 @@
+$mailArray = array("xiaohui@sohu.com","huaxiabank@sina.com","herry@163.com","luckbb@sina.com","wjz@163.com","single@hotmail.com");

@@ -1,0 +1,216 @@
+@charset "utf-8";
+*{
+	padding:0;
+	margin:0;
+}
+.top .top_box {
+	height: 90px;
+	width: 360px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+}
+.dl_box form .tijiao span {
+	margin-left: 20px;
+	height: 30px;
+	float: left;
+	line-height: 30px;
+}
+.foot {
+	text-align: center;
+	border-top-width: 5px;
+	border-top-style: solid;
+	border-top-color: #d8d8d8;
+	border-right-color: #d8d8d8;
+	border-bottom-color: #d8d8d8;
+	border-left-color: #d8d8d8;
+	background-color: #f2f2f2;
+	height: 150px;
+	line-height: 100px;
+	font-size: 14px;
+	font-family: "仿宋";
+}
+
+.dl_box form .tijiao input {
+	float: left;
+
+}
+
+
+.top .top_box .lg {
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	height: 22px;
+	width: 184px;
+}
+
+
+.top {
+	height: 100px;
+	background-color: #000;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #286cbd;
+	margin-bottom: 20px;
+}
+.dl_box h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+.dl_box .tishi {
+	height: 30px;
+	font-size: 12px;
+	line-height: 30px;
+	font-family: "黑体";
+	background-color: #e8f6ff;
+	background-image: url(../images/information.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+	padding-left: 40px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #b8e2fa;
+	border-bottom-color: #b8e2fa;
+	margin-bottom: 10px;
+}
+.dl_box form .label {
+	color: #666;
+	font-size: 14px;
+	line-height: 30px;
+}
+
+.dl_box form .kuang {
+}
+.dl_box form .zjmm {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 14px;
+	font-family: "黑体";
+}
+.dl_box form .tijiao #tj {
+	background-image: url(../images/tu_09.jpg);
+	height: 29px;
+	width: 63px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.dl_box form .tijiao {
+}
+
+
+.dl_box form .kuang #username {
+	width: 360px;
+	height: 20px;
+}
+.dl_box form .kuang #password {
+	height: 20px;
+	width: 360px;
+}
+
+
+
+
+
+
+.top .top_box .top_box2 {
+	color: #FFF;
+	clear: both;
+	overflow: hidden;
+	padding-top: 36px;
+}
+.top .top_box .top_box2 ul {
+	list-style-type: none;
+}
+.top_box2 ul .btn1 {
+	background-image: url(../images/tu_03.jpg);
+	height: 32px;
+	width: 53px;
+	font-family: "黑体";
+	font-size: 16px;
+	line-height: 32px;
+	text-align: center;
+	display: block;
+	cursor:pointer;
+}
+.top_box2 ul .btn2 {
+	background-image: url(../images/tu_05.jpg);
+	height: 32px;
+	width: 68px;
+	font-family: "黑体";
+	font-size: 16px;
+	line-height: 32px;
+	text-align: center;
+	display: block;
+	cursor:pointer;
+}
+
+.top .top_box .top_box2 ul li {
+	float: left;
+	margin-right: 10px;
+}
+.top_box2 .chinese {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #CCC;
+	padding-top: 15px;
+	float: right;
+	line-height: 10px;
+}
+.dl_box {
+	width: 360px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 350px;
+}
+#zc {
+	display: none;
+}
+.top .top_box .top_box2 ul a  {
+	color: #FFF;
+	text-decoration: none;
+}
+
+
+.dl_box form .zjmm .yzm {
+	float: left;
+	margin-left: 10px;
+	height: 22px;
+	border: 1px solid #009ac8;
+	color: #009ac8;
+	background-color: #01ffff;
+	line-height: 22px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.dl_box form .zjmm input {
+	float: left;
+	height: 20px;
+}
+.dl_box form .zjmm {
+	margin-bottom: 30px;
+}
+
+
+
+
+.top_box2 .chinese span {
+	color: #0098f5;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.dl_box form .tijiao a {
+	color: #0196c0;
+	font-size: 14px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.dl_box form .tijiao {
+	font-size: 12px;
+	overflow: hidden;
+}

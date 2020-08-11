@@ -1,0 +1,10 @@
+网站改版，其中“最新动态”栏目要重新划分数据库，请你根据新闻栏目的实际使用需要，
+为新闻栏目设计一个数据表news,表中至少包含10个字段，字段名自拟，设计完成后录入3条测试数据。
+
+create database news default character set utf8 collate utf8_bin;   
+
+news表
+
+id号，新闻标题，新闻内容，时间,作者名称，新闻类别，关键字，审核，访问次数，缩略图
+
+create table news (id int primary key auto_increment,tilte varchar(50) character set utf8 collate utf8_bin,content varchar(2000) character set utf8 collate utf8_bin,updatetime time,author varchar(20) character set utf8 collate utf8_bin,newsclass varchar(20) character set utf8 collate utf8_bin,guanjianzi varchar(20) character set utf8 collate utf8_bin,shenhe int,visit int,newsimg varchar(50) character set utf8 collate utf8_bin)
